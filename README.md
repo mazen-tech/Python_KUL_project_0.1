@@ -26,5 +26,17 @@ A simple Python-based Echo Server that receives a comma-separated list of number
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your_username/python-sorting-echo-server.git
-cd python-sorting-echo-server
+git clone https://github.com/mazen-tech/Python_KUL_project_0.1.git
+cd python-sorting-echo-server 
+```
+
+### 2. Run the server and client on diffrent terminals 
+```bash
+python3 server.py
+```
+
+```bash 
+python3 client.py
+```
+
+
