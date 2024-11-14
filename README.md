@@ -34,9 +34,10 @@ cd python-sorting-echo-server
 ```bash
 python3 server.py
 ```
+![image](https://github.com/user-attachments/assets/a6d22116-25ab-42ab-8a62-868cd5b5116a)
+
 
 ```bash 
 python3 client.py
 ```
-
-
+![image](https://github.com/user-attachments/assets/5d7b144f-3f3e-41b9-8bb4-e0067b9a6813)
